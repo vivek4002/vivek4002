@@ -1,6 +1,6 @@
 -👋 Hi, I’m @vivek4002  
--👀 I’m interested in C#, Python, Data Structures and Algorithms 
--🌱 I’m currently learning Algorithms and System Design 
+-👀 I’m interested in C#, Python, Data Structures and Algorithms   
+-🌱 I’m currently learning Algorithms and System Design    
 
 
 <!---
